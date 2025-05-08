@@ -1,16 +1,29 @@
-# expenses_app
+# Expenses Tracker - Flutter App
 
-A new Flutter project.
+## Description
 
-## Getting Started
+Expenses Tracker is a simple and easy-to-use mobile application built with Flutter. The app allows users to track their daily expenses, helping them manage and monitor their spending. It provides a clean, responsive UI to add and view expenses efficiently.
 
-This project is a starting point for a Flutter application.
+In future updates, the app will include a feature where users can add their payment cards and track their payments directly through the app.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Add Expenses**: Users can easily add their expenses with details like amount, category, and description.
+- **View Expenses**: View a list of all added expenses with the option to filter by date or category.
+- **Responsive UI**: The app has a user-friendly and responsive design that works on both Android and iOS devices.
+- **Expense Summary**: Get an overview of your total expenses in a given time period.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Future Features
+
+- **Payment Card Integration**: In upcoming versions, users will be able to add their payment cards and track their payments seamlessly.
+- **Data Visualization**: Graphs and charts to visualize spending trends.
+- **Expense Budgeting**: Set budget limits for different categories and get alerts when the budget is exceeded.
+
+## Screenshots
+
+![Home Screen](assets/home_screen.png)
+*Home Screen displaying recent expenses.*
+
+![Add Expense Screen](assets/add_expense.png)
+*Add Expense screen where users can input expense details.*
+
