@@ -21,9 +21,9 @@ In future updates, the app will include a feature where users can add their paym
 
 ## Screenshots
 
-![Home Screen](assets/home_screen.png)
+![Home Screen](assets/screen_shots/home_screen.png)
 *Home Screen displaying recent expenses.*
 
-![Add Expense Screen](assets/add_expense.png)
+![Add Expense Screen](assets/screen_shots/add_expense.png)
 *Add Expense screen where users can input expense details.*
 
