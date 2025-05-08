@@ -20,10 +20,12 @@ In future updates, the app will include a feature where users can add their paym
 - **Expense Budgeting**: Set budget limits for different categories and get alerts when the budget is exceeded.
 
 ## Screenshots
+<img src="assets/screen_shots/home_screen.png" alt="Home Screen" width="400"/>
 
-![Home Screen](assets/screen_shots/home_screen.png)
 *Home Screen displaying recent expenses.*
 
-![Add Expense Screen](assets/screen_shots/add_expense.png)
+<img src="assets/screen_shots/add_expense.png" alt="Add Expense Screen" width="400"/>
+
 *Add Expense screen where users can input expense details.*
+
 
